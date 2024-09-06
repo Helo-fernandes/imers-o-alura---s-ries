@@ -1,4 +1,4 @@
-## Mundo das Séries: Seu guia para o universo das séries! 
+## Mundo das Séries: Seu guia para o universo das séries! - Imersão Dev Alura e Google Gemini
 
 **O que é esse projeto?**
 
@@ -38,7 +38,7 @@
 
 **Vamos construir juntos o maior guia de séries do mundo!** 
 
-projeto desenvolvido com a imersão Alura
+
 
 
 
